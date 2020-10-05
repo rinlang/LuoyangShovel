@@ -1,0 +1,12 @@
+[globals]
+debug = true
+
+[log]
+log_path = 'log/logs'
+
+[modules]
+
+    [modules.brute_force]
+    enable = true
+    dicts = ['default_dict.txt','a']
+    threads_num = 50
