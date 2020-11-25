@@ -1,4 +1,4 @@
-# LuoyangShovel<sub>ver 0.0.0</sub>
+# LuoyangShovel<sub>ver 0.0.0</sub> | 搁置暂停 | 摸了
 ## 项目简介
 洛阳铲是一个子域名挖掘机。
 
